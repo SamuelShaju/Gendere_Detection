@@ -1,7 +1,7 @@
 images/
 .vscode/
 __pycache__/
-gender_data_set_face/
+gender_dataset_face/
 
 dlib-19.19.0-cp38-cp38-win_amd64.whl
 dlib-19.22.99-cp310-cp310-win_amd64.whl
